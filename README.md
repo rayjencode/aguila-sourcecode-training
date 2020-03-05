@@ -1,6 +1,6 @@
 # aguila-sourcecode-training
 
-# Add Extensions:
+# Add VS Code Extensions:
 - Bootstrap 4
 - Bracket Pair Colorizer
 - Live Server
