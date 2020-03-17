@@ -1,5 +1,5 @@
 /* Timer Countdown */
-var countDate = new Date("March 15, 2020 00:00: 00").getTime();
+var countDate = new Date("August 15, 2020 00:00: 00").getTime();
 
 function newEvent() {
   var now = new Date().getTime();
